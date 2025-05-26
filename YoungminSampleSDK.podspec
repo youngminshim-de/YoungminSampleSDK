@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'YoungminSampleSDK'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of YoungminSampleSDK.'
+  s.version          = '0.0.2'
+  s.summary          = 'podFile에 대한 짧은 요약설명.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+podFile에 대한 긴설명
                        DESC
 
   s.homepage         = 'https://github.com/youngminshim-de/YoungminSampleSDK'
@@ -38,5 +38,6 @@ TODO: Add long description of the pod here.
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+s.dependency 'AFNetworking', '~> 2.3'
+s.dependency 'Alamofire', '~> 5.4'
 end
