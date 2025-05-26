@@ -1,0 +1,16 @@
+PODS:
+  - YoungminSampleSDK (0.1.0)
+
+DEPENDENCIES:
+  - YoungminSampleSDK (from `../`)
+
+EXTERNAL SOURCES:
+  YoungminSampleSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YoungminSampleSDK: 52a11841302e5edc450cb629ca7fd7738ba9b16a
+
+PODFILE CHECKSUM: b6872ab0720c800f2adc0b4d5688bc21ff336363
+
+COCOAPODS: 1.11.2

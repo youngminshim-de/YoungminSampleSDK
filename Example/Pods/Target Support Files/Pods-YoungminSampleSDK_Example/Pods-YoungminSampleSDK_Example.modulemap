@@ -1,0 +1,6 @@
+framework module Pods_YoungminSampleSDK_Example {
+  umbrella header "Pods-YoungminSampleSDK_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
