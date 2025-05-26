@@ -37,9 +37,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0C0EDAD8C1AA847C1AD8B8E4783CFB20 /* YoungminSampleSDK.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = YoungminSampleSDK.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		0C0EDAD8C1AA847C1AD8B8E4783CFB20 /* YoungminSampleSDK.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = YoungminSampleSDK.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		0C45845621A37EB71A0864BEB4CE63A2 /* Pods-YoungminSampleSDK_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-YoungminSampleSDK_Example-frameworks.sh"; sourceTree = "<group>"; };
-		1B0CB07C7352440C869CCFE970C431E2 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		1B0CB07C7352440C869CCFE970C431E2 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		384DDA2CB25005BD6479B5987C619DD4 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		3B5AEF12D2EB3EEDD1411EC097E39387 /* Pods-YoungminSampleSDK_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-YoungminSampleSDK_Example.modulemap"; sourceTree = "<group>"; };
 		42BACDC7566E6C5FF618E7ADC668971E /* Pods-YoungminSampleSDK_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-YoungminSampleSDK_Tests.modulemap"; sourceTree = "<group>"; };
@@ -52,13 +52,13 @@
 		77C149A76454AB1AEE97E58FA455ACC7 /* Pods-YoungminSampleSDK_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-YoungminSampleSDK_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		81A50572A11A9EFDA49F4C29DD291F56 /* Pods-YoungminSampleSDK_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-YoungminSampleSDK_Example-umbrella.h"; sourceTree = "<group>"; };
 		822CA873DF7F34D6E9DD80A85ECCCE72 /* Pods-YoungminSampleSDK_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-YoungminSampleSDK_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		84050130E21807100DFF3CCD20081220 /* Pods-YoungminSampleSDK_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-YoungminSampleSDK_Tests"; path = Pods_YoungminSampleSDK_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		88A5A2D81BD22084663CEDAC8F0A40A8 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		84050130E21807100DFF3CCD20081220 /* Pods_YoungminSampleSDK_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_YoungminSampleSDK_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		88A5A2D81BD22084663CEDAC8F0A40A8 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		892208825F703A31D9F188DB19990503 /* Pods-YoungminSampleSDK_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-YoungminSampleSDK_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		8F44B22405CEAFE91BFBEF1BBE7BAC58 /* YoungminSampleSDK-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "YoungminSampleSDK-Info.plist"; sourceTree = "<group>"; };
 		979BE3D8B8F8EF6206C38BFC27D33300 /* Pods-YoungminSampleSDK_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-YoungminSampleSDK_Tests-umbrella.h"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		AE2BB84E0A57CD9EC237FDFBB899C3A5 /* YoungminSampleSDK */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = YoungminSampleSDK; path = YoungminSampleSDK.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		AE2BB84E0A57CD9EC237FDFBB899C3A5 /* YoungminSampleSDK.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = YoungminSampleSDK.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B197B9AD9BEA226D03436E557C55520B /* YoungminSampleSDK-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "YoungminSampleSDK-prefix.pch"; sourceTree = "<group>"; };
 		B1DC8D69B604539B1EEFF9CE7102DBC4 /* YoungminSampleSDK.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = YoungminSampleSDK.modulemap; sourceTree = "<group>"; };
 		B30C4C2EB3E1AD9C65119A82C4B042B2 /* Pods-YoungminSampleSDK_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-YoungminSampleSDK_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
@@ -68,7 +68,7 @@
 		DA9406C50F2560B84BF0B2E7A73DFF6B /* Pods-YoungminSampleSDK_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-YoungminSampleSDK_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		DDE2873A10920B899E4E0DBC3E3E790F /* Pods-YoungminSampleSDK_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-YoungminSampleSDK_Tests-dummy.m"; sourceTree = "<group>"; };
 		F2311AE27B8502482D45FF3FE837682B /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = YoungminSampleSDK/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
-		FC695A3164F771C00DA27430D0DEF36F /* Pods-YoungminSampleSDK_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-YoungminSampleSDK_Example"; path = Pods_YoungminSampleSDK_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		FC695A3164F771C00DA27430D0DEF36F /* Pods_YoungminSampleSDK_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_YoungminSampleSDK_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FDE0980B2377DD6644EA697AB75AAE18 /* Pods-YoungminSampleSDK_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-YoungminSampleSDK_Example-dummy.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -120,9 +120,9 @@
 		15FDACE7A3198F26F3677CE8FAF3139E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FC695A3164F771C00DA27430D0DEF36F /* Pods-YoungminSampleSDK_Example */,
-				84050130E21807100DFF3CCD20081220 /* Pods-YoungminSampleSDK_Tests */,
-				AE2BB84E0A57CD9EC237FDFBB899C3A5 /* YoungminSampleSDK */,
+				FC695A3164F771C00DA27430D0DEF36F /* Pods_YoungminSampleSDK_Example.framework */,
+				84050130E21807100DFF3CCD20081220 /* Pods_YoungminSampleSDK_Tests.framework */,
+				AE2BB84E0A57CD9EC237FDFBB899C3A5 /* YoungminSampleSDK.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -269,7 +269,7 @@
 			);
 			name = "Pods-YoungminSampleSDK_Tests";
 			productName = Pods_YoungminSampleSDK_Tests;
-			productReference = 84050130E21807100DFF3CCD20081220 /* Pods-YoungminSampleSDK_Tests */;
+			productReference = 84050130E21807100DFF3CCD20081220 /* Pods_YoungminSampleSDK_Tests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		7948D93D1A77BB3EE45E31E4F978E0B2 /* YoungminSampleSDK */ = {
@@ -287,7 +287,7 @@
 			);
 			name = YoungminSampleSDK;
 			productName = YoungminSampleSDK;
-			productReference = AE2BB84E0A57CD9EC237FDFBB899C3A5 /* YoungminSampleSDK */;
+			productReference = AE2BB84E0A57CD9EC237FDFBB899C3A5 /* YoungminSampleSDK.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		9DB98ECD5505275550831319E1FEEA0A /* Pods-YoungminSampleSDK_Example */ = {
@@ -306,7 +306,7 @@
 			);
 			name = "Pods-YoungminSampleSDK_Example";
 			productName = Pods_YoungminSampleSDK_Example;
-			productReference = FC695A3164F771C00DA27430D0DEF36F /* Pods-YoungminSampleSDK_Example */;
+			productReference = FC695A3164F771C00DA27430D0DEF36F /* Pods_YoungminSampleSDK_Example.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -327,8 +327,6 @@
 				en,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
-			minimizedProjectReferenceProxies = 0;
-			preferredProjectObjectVersion = 77;
 			productRefGroup = 15FDACE7A3198F26F3677CE8FAF3139E /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -424,7 +422,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-YoungminSampleSDK_Example/Pods-YoungminSampleSDK_Example-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-YoungminSampleSDK_Example/Pods-YoungminSampleSDK_Example.modulemap";
@@ -457,7 +455,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-YoungminSampleSDK_Tests/Pods-YoungminSampleSDK_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-YoungminSampleSDK_Tests/Pods-YoungminSampleSDK_Tests.modulemap";
@@ -490,7 +488,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-YoungminSampleSDK_Example/Pods-YoungminSampleSDK_Example-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-YoungminSampleSDK_Example/Pods-YoungminSampleSDK_Example.modulemap";
@@ -524,7 +522,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-YoungminSampleSDK_Tests/Pods-YoungminSampleSDK_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-YoungminSampleSDK_Tests/Pods-YoungminSampleSDK_Tests.modulemap";
@@ -592,13 +590,12 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
@@ -620,7 +617,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/YoungminSampleSDK/YoungminSampleSDK-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/YoungminSampleSDK/YoungminSampleSDK-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/YoungminSampleSDK/YoungminSampleSDK.modulemap";
 				PRODUCT_MODULE_NAME = YoungminSampleSDK;
@@ -689,7 +686,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -718,7 +715,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/YoungminSampleSDK/YoungminSampleSDK-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/YoungminSampleSDK/YoungminSampleSDK-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/YoungminSampleSDK/YoungminSampleSDK.modulemap";
 				PRODUCT_MODULE_NAME = YoungminSampleSDK;

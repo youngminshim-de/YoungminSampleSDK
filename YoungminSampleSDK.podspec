@@ -28,7 +28,7 @@ podFile에 대한 긴설명
   s.source           = { :git => 'https://github.com/youngminshim-de/YoungminSampleSDK.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '15.0'
 
   s.source_files = 'YoungminSampleSDK/Classes/**/*'
   
@@ -38,6 +38,6 @@ podFile에 대한 긴설명
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-s.dependency 'AFNetworking', '~> 2.3'
-s.dependency 'Alamofire', '~> 5.4'
+#s.dependency 'AFNetworking', '~> 2.3'
+s.dependency 'Alamofire', '~> 5.6'
 end
