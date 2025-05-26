@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'YoungminSampleSDK'
-  s.version          = '0.0.4'
+  s.version          = '0.0.5'
   s.summary          = 'podFile에 대한 짧은 요약설명.'
 
 # This description is used to generate tags and improve search results.
