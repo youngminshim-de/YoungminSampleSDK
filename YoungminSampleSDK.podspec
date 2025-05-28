@@ -39,5 +39,5 @@ podFile에 대한 긴설명
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
 #s.dependency 'AFNetworking', '~> 2.3'
-#s.dependency 'Alamofire', '~> 5.6'
+s.dependency 'Alamofire', '~> 5.6'
 end
